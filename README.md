@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Gfecito
-- 👀 I’m interested in Game design, AI and maths
-- 🌱 I’m currently learning Unreal
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ... 
+Hey
 
 <!---
 Gfecito/Gfecito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
